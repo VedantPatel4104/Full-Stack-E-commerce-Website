@@ -2,8 +2,6 @@
 
 <p><b>Electronics eCommerce shop with admin dashboard in Next.js and Node.js</b> is a <b>free eCommerce store</b> developed using Next.js, Node.js and MySQL. The application is completely built from scratch (custom design) and is fully responsive.</p>
 
-<p>The project is called <b>Singitronic</b>, a modern online store specializing in electronics. It was created as part of a college project made by <b>Vedant Patel</b>.
-
 <h2>Singitronic – Key features</h2>
 <p>Singitronic is a full-stack e-commerce application built using Next.js and Node.js. It features a <b>fully functional admin dashboard</b>, is <b>completely open-source</b>, and can be used as a <b>template or boilerplate</b> for your future projects. The app is responsive, manually tested, and available for <b>free download</b>.</p>
 
