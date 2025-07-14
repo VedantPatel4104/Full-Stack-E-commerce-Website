@@ -2,65 +2,7 @@
 
 <p><b>Electronics eCommerce shop with admin dashboard in Next.js and Node.js</b> is a <b>free eCommerce store</b> developed using Next.js, Node.js and MySQL. The application is completely built from scratch (custom design) and is fully responsive.</p>
 
-<p>The project is called <b>Singitronic</b>, a modern online store specializing in electronics. It was created as part of a college project made by <b>Vedant Patel</b>. Along with the app, we also developed a <b>40-page software engineering document</b>, which is summarized in the project repository. The documentation is based on the book „Razvoj aplikativnog softvera“ by Singidunum University professor Violeta Tomašević. Also, college lectures by Violeta Tomašević and Petar Kresoja helped a lot with the implementation of the application.</p>
-
-<h2>2. Software engineering process</h2>
-<p>During the design and modeling of the software, we decided to use the cascade model (waterfall model). We chose it for its simplicity, ease of project monitoring, and clear structure. The model was first introduced in 1970 and features sequential phases where the next stage begins only after the previous one is completed.</p>
-
-<h3>2.1. Defining milestones</h3>
-<p>Milestones are key project events that help us track deadlines. We defined milestones for every phase of our software engineering process.</p>
-
-<h3>2.2. Plaky - Project management application</h3>
-<p>We used Plaky for project management and tracking. It's a free collaboration tool that makes it easy to generate reports and keep the project organized.</p>
-
-<h2>3. Requirements analysis</h2>
-
-<h3>3.1. Software requirements specification</h3>
-<p>We defined all functional and non-functional requirements for the application. This included system-environment interaction and performance expectations.</p>
-
-<h3>3.2. Modeling the system with a use case diagram</h3>
-<p>The use case diagram illustrates system functionality across different use scenarios, outlining actors, steps, and both success and alternative paths.</p>
-
-<h2>4. System design</h2>
-<p>In this phase, we converted ideas and requirements into a working software structure. We defined system architecture, frontend and backend design, data structures, and database schema.</p>
-
-<h2>5. Software implementation</h2>
-<p>This is the phase where programming begins. Internal documentation such as comments and structured code headers were emphasized to improve code maintainability and understanding during and after development.</p>
-
-<h2>6. Testing</h2>
-<p>Testing was conducted manually, following a structured process that involved test scripts, test IDs, input/output, components, methods, and test techniques. Over 350 test cases were created and executed. Errors were logged with detailed records including IDs, severity, file names, and phases.</p>
-
-<h3>6.1. Ad hoc testing</h3>
-<p>We performed informal code reviews and discussions after every new functionality was added to detect potential issues early.</p>
-
-<h3>6.2. Component system hierarchy</h3>
-<p>A full component hierarchy was created in Figma. This was essential for understanding the testing flow and relationships between UI components.</p>
-
-<h3>6.3. Unit testing</h3>
-<p>Individual functionalities were tested using both black-box and white-box testing techniques. Unit testing accounted for the majority of detected issues and helped catch errors early.</p>
-<p>The black box methods used:</p>
-<ol>
-  <li>Equivalence partitioning</li>
-  <li>Boundary Value Analysis – BVA</li>
-</ol>
-<p>The white box methods used:</p>
-<ol>
-  <li>Statement coverage</li>
-  <li>Decision coverage</li>
-  <li>Condition coverage</li>
-</ol>
-
-<h3>6.4. Integration testing</h3>
-<p>We followed the bottom-up integration approach. Lower-level components were tested first, then gradually integrated into higher-level modules.</p>
-
-<h3>6.5. End-to-end testing</h3>
-<p>The final level of testing checked the full system against non-functional requirements like performance and reliability, ensuring the complete application worked as specified.</p>
-
-<h3>6.6. Error records at a specified time interval</h3>
-<p>We tracked the number of bugs found per day, which helped evaluate the effectiveness of the testing process and plan further steps.</p>
-
-<h3>6.7. Analysis of errors found</h3>
-<p>An error report form was used to classify and document common types of bugs. This provided insights into recurring issues and improved our understanding of where the system needed improvements.</p>
+<p>The project is called <b>Singitronic</b>, a modern online store specializing in electronics. It was created as part of a college project made by <b>Vedant Patel</b>.
 
 <h2>Singitronic – Key features</h2>
 <p>Singitronic is a full-stack e-commerce application built using Next.js and Node.js. It features a <b>fully functional admin dashboard</b>, is <b>completely open-source</b>, and can be used as a <b>template or boilerplate</b> for your future projects. The app is responsive, manually tested, and available for <b>free download</b>.</p>
